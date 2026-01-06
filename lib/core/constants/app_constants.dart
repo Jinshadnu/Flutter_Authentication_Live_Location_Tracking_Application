@@ -1,6 +1,6 @@
 class AppConstants {
   // App
-  static const String appName = 'MediTrack';
+  static const String appName = 'Location_Tracker';
 
   // Assets
   static const String logoPath = 'assets/images/logo.png';
